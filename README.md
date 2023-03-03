@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently working on obtaining an internship for Software Engineering!
-🌱 I’m currently learning Visual Analytics.
-📫 How to reach me: kaitlynavan@gmail.com or https://www.linkedin.com/in/kaitlyn-van/
-😄 Pronouns: She/Her
-⚡ Fun fact: I love 🍱 food, ✈️ traveling, 💅 nails, 🎨 all things designing and 💻 learning new things!
+- 🔭 I’m currently working on obtaining an internship for Software Engineering!
+- 🌱 I’m currently learning Visual Analytics.
+- 📫 How to reach me: kaitlynavan@gmail.com or https://www.linkedin.com/in/kaitlyn-van/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love 🍱 food, ✈️ traveling, 💅 nails, 🎨 all things designing and 💻 learning new things!
+- 📚 Related Coursework: Data Structures and Algorithms, Operating Systems and Networking, Software Engineering, Computer Architecture, Human-Centered Design, Web App Design And Development, Information Security and Privacy, Network-Based Application Development, Secure Programming and Penetration Testing
 
 <!--
 **klynvan/klynvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
