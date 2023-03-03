@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on obtaining an internship for Software Engineering!
-- 🌱 I’m currently learning Visual Analytics.
+- 🌱 I’m currently learning Visual Analytics and Mobile Application.
 - 📫 How to reach me: kaitlynavan@gmail.com or https://www.linkedin.com/in/kaitlyn-van/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love 🍱 food, ✈️ traveling, 💅 nails, 🎨 all things designing and 💻 learning new things!
